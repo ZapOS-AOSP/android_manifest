@@ -111,6 +111,7 @@
   <project path="packages/apps/Nfc" name="packages_apps_Nfc" remote="yaap" />
   <project path="packages/apps/OpenDelta" name="packages_apps_OpenDelta" remote="yaap" />
   <project path="packages/apps/RepainterServicePriv" name="kdrag0n/android_packages_apps_RepainterServicePriv" remote="github" revision="main" />
+  <project path="packages/apps/RevampedFMRadio" name="packages_apps_RevampedFMRadio" remote="zap" />
   
   <!-- Zapped Settings :) -->
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="zap" />
