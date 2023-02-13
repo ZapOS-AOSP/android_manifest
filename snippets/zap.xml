@@ -166,5 +166,9 @@
   <project path="vendor/qcom/opensource/vibrator" name="vendor_qcom_opensource_vibrator" remote="yaap" />
   <project path="vendor/themes" name="vendor_themes" remote="yaap" />
   <project path="vendor/zap" name="vendor_zap" remote="zap" />
+  
+    
+  <!-- MTK SEPolicy -->
+  <project path="device/mediatek/sepolicy_vndr" name="android_device_mediatek_sepolicy_vndr" remote="zap" />
 
 </manifest>
