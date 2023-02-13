@@ -1,4 +1,4 @@
-# **<div align="center">Zap OS | Get Zapped</div>**    
+![github readme](https://user-images.githubusercontent.com/68554241/218466014-743ab2b7-2943-4f9b-84d2-a545ab179113.png)
 
 
 Credits:
@@ -6,6 +6,7 @@ Credits:
  * [**AOSP**](https://android.googlesource.com)
  * [**YAAP**](https://github.com/yaap)
  * [**LineageOS**](https://github.com/LineageOS)
+ * [**CrDroid**](https://github.com/LineageOS](https://github.com/crdroidandroid)
  * [**Evolution-X**](https://github.com/Evolution-X)
  * [**Derpfest**](https://github.com/DerpFest-AOSP)
  * [**Cherish OS**](https://github.com/CherishOS)
