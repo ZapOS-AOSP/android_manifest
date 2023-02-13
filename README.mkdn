@@ -6,7 +6,7 @@ Credits:
  * [**AOSP**](https://android.googlesource.com)
  * [**YAAP**](https://github.com/yaap)
  * [**LineageOS**](https://github.com/LineageOS)
- * [**CrDroid**](https://github.com/LineageOS](https://github.com/crdroidandroid)
+ * [**CrDroid**](https://github.com/crdroidandroid)
  * [**Evolution-X**](https://github.com/Evolution-X)
  * [**Derpfest**](https://github.com/DerpFest-AOSP)
  * [**Cherish OS**](https://github.com/CherishOS)
