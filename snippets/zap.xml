@@ -61,7 +61,9 @@
   <project path="external/seedvault" name="GrapheneOS/platform_external_seedvault" remote="github" revision="13" />
   <project path="external/tinycompress" name="external_tinycompress" remote="yaap" />
   <project path="external/zlib-ng" name="external_zlib-ng" remote="yaap" />
-
+  <project path="external/protobuf" name="external_protobuf" remote="zap" />
+  <project path="external/libfuse" name="external_libfuse" remote="zap" />
+  
   <!-- Frameworks -->
   <project path="frameworks/av" name="frameworks_av" remote="zap" />
   <project path="frameworks/base" name="framework_base" remote="zap" />
